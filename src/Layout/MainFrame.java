@@ -64,7 +64,7 @@ public class MainFrame extends JFrame implements ActionListener {
 		startIndex = 0;
 		p1.add(lblPt[i]);
 	}
-
+// 깃허브 되는지 
 //	System.out.println(currentIndex);
 //	poster[0] = new ImageIcon("image/poster1.jpg");
 //	lblPt[0] = new JLabel(poster[0]);
